@@ -1,0 +1,9 @@
+{
+  "name": "iron-swipeable-pages",
+  "version": "2.0.0",
+  "main": "index.html",
+  "repository": "git@github.com:etaletai13/iron-swipeable-pages",
+  "author": "GeoloeG",
+  "license": "MIT",
+  "private": false
+}
